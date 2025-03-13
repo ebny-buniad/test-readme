@@ -1,1 +1,3 @@
-This is new Code of Pets
+# Project Name : Pets Adoption
+## Project usecase
+- Adopt any pet
